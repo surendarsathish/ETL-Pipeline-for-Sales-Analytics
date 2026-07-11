@@ -1,0 +1,18 @@
+
+
+ETL REPORT
+
+---------------------------
+
+Original Rows : 9800
+
+Columns : 18
+
+Duplicates Removed : Completed
+
+Missing Values : Filled
+
+Data Type Conversion : Completed
+
+Database Loaded : SQLite
+
