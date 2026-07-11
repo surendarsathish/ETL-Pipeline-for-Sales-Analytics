@@ -91,12 +91,15 @@ ETL-Pipeline-for-Sales-Analytics/
 │
 ├── images/
 │   ├── dashboard.png
-│   └── architecture.png
+│   
 │
-└── docs/
+└── 
 ```
 
 ---
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
 
 ## 📈 Results
 
